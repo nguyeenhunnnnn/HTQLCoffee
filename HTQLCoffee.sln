@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HTQLCoffee", "HTQLCoffee\HTQLCoffee.csproj", "{DA190B5A-2D03-41DD-A69B-A0D724E9BFFF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DA190B5A-2D03-41DD-A69B-A0D724E9BFFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA190B5A-2D03-41DD-A69B-A0D724E9BFFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA190B5A-2D03-41DD-A69B-A0D724E9BFFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA190B5A-2D03-41DD-A69B-A0D724E9BFFF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AE5244C8-9A00-4D2C-87B6-EA71E7E7AAA9}
+	EndGlobalSection
+EndGlobal

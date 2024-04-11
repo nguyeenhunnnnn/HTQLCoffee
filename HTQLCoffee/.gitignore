@@ -1,0 +1,19 @@
+# Thư mục bin và obj được tạo ra bởi quá trình biên dịch
+bin/
+obj/
+
+# Thư mục .vs chứa cấu hình của Visual Studio
+.vs/
+
+# Tệp tạm thời và nhật ký
+*.log
+*.tmp
+
+# Các tệp cài đặt cụ thể của IDE
+*.suo
+*.user
+*.vscode
+
+# Các tệp cấu hình nhạy cảm
+appsettings.local.json
+launchSettings.json
